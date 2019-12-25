@@ -10,4 +10,4 @@ def verify(string):
 		elif(danger and i == 'G'):
 			danger = False
 	return 'quiet'
-print(verfy(casino_floor)) 
+print(verify(casino_floor)) 
